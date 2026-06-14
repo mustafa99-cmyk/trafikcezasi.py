@@ -1,0 +1,2 @@
+# trafikcezasi.py
+trafik cezası
